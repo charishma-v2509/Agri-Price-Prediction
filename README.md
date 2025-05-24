@@ -22,14 +22,14 @@
 <h2>Installation</h2>
     <h3>1. Clone the Repository</h3>
     <pre><code>git clone https://github.com/charishma-v2509/Agri-Price-Prediction.git
-cd agri-price-predictor</code></pre>
+cd Agri-Price-Prediction</code></pre>
     <h3>2. Setup Backend</h3>
     <pre><code>cd server
 npm install</code></pre>
     <h4>Install Python dependencies:</h4>
     <pre><code>pip install pandas prophet plotly</code></pre>
     <h3>3. Setup Frontend</h3>
-    <pre><code>cd ../client
+    <pre><code>cd client
 npm install</code></pre>
 <h2>Contributing</h2>
     <p>Pull requests are welcome. For major changes, please open an issue first.</p>
