@@ -2,7 +2,7 @@
 <h3> Description</h3>
     <p>
         The <strong>Agri Price Predictor</strong> is a web-based application designed to forecast the prices of agri-horticultural commodities such as vegetables and pulses. 
-        By using machine learning algorithms—specifically Facebook Prophet—it provides future price predictions based on historical data.
+        By using machine learning algorithms specifically Facebook Prophet it provides future price predictions based on historical data.
         Users can enter details like commodity, unit, location, and date, then receive predictions and trend graphs that help in market planning and decision-making.
       </p>
 <h2>Tech Stack</h2>
